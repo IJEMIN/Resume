@@ -4,6 +4,7 @@
 - Youtube (Video Art & Hardcore Gaming) : https://www.youtube.com/user/IJemin4714
 - Blog : https://ijemin.com
 - Author Info : [Yes24](http://www.yes24.com/24/AuthorFile/Author/248602)
+- also known as "I_Jemin" or "retr0"
 
 # 커리어
 
