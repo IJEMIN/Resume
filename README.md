@@ -1,6 +1,9 @@
 # 이제민
-- 010-4822-2797
-- i_jemin@icloud.com
+- Mail : i_jemin@icloud.com
+- Youtube (Programming) : https://yotube.com/c/JeminDev
+- Youtube (Video Art & Hardcore Gaming) : https://www.youtube.com/user/IJemin4714
+- Blog : https://ijemin.com
+- Author Info : [Yes24](http://www.yes24.com/24/AuthorFile/Author/248602)
 
 # 커리어
 
