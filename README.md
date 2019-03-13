@@ -5,6 +5,8 @@
 - 저자 정보 : [Yes24](http://www.yes24.com/24/AuthorFile/Author/248602)
 - 깃허브 : https://github.com/IJEMIN
 
+- 산업기능요원 (보충역 신규) 가능
+
 # 커리어
 
 ## 베스트 셀러 작가
