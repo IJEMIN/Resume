@@ -14,6 +14,40 @@
     - [프로젝트 저장소(깃허브)](https://github.com/IJEMIN/Unity-Programming-Essence)
 
 
+
+## 독립 게임 개발
+- 독립 게임 개발팀 **애플민트** 창설
+    - 일본 만화 스타일의 게임을 5종 iOS/Android로 출시
+    - 매번 새로운 아티스트, 소설 작가를 찾아 협업
+
+### 개발한 게임 (상용)
+- [그래도 그녀를 그리워한다 (iOS/Android)](https://applemintgames.com/i-still-miss-her)
+    - RenPy, Python
+    - 1만+ 유료앱 다운로드
+- [아슬아슬 친구관계 (Android)]((https://applemintgames.com/kiri-friend))
+    - RenPy, Python
+- [얀데레 아가씨 (iOS/Android)](https://applemintgames.com/yandere-girl)
+    - Unity, C#
+    - 30만+ 다운로드 (Android)
+- [츤데레 아가씨 (iOS/Android)](https://applemintgames.com/my-dere-girl)
+    - Unity, C#
+    - 10만+ 다운로드 (Android)
+- [메이드 아가씨 (iOS/Android)](https://applemintgames.com/메이드-아가씨)
+    - Unity, C#, Azure(for Asset downloads)
+    - 10만+ 다운로드 (Android)
+    - 유명 애니메이션 성우(쿠보 유리카) 참가 (3월 중 일본어판 릴리즈)
+
+### 개발한 게임 (교육용)
+책 집필을 위해 제작한 게임들
+
+- [유니런](https://retro-book.itch.io/uni-run) (Linux, Mac)
+    - 무한 2D 러너 게임
+- 좀비 서바이버 (Linux, PC, Mac)
+    - Unity, C#, Photon, 기타 디자인 프로그램
+    - 탑다운 형식의 서바이벌 슈터 게임
+    - 싱글 플레이어 : https://retro-book.itch.io/zombie
+    - 멀티 플레이어 : https://retro-book.itch.io/zombie-multiplayer
+
 ## 게임 프로그래밍 트레이너
 
 ### 온라인 프로그래밍 튜토리얼 채널 **retr0** 운영
@@ -46,28 +80,6 @@
 - 경희대학교 컴퓨터공학,공학사 졸업
 - Unity Certifed Programmer : [라이센스 조회(링크)](https://www.youracclaim.com/badges/9d4e4c2b-645d-4495-8053-a82046dfaede/public_url)
 
-## 독립 게임 개발
-- 독립 게임 개발팀 **애플민트** 창설
-    - 일본 만화 스타일의 게임을 5종 iOS/Android로 출시
-    - 매번 새로운 아티스트, 소설 작가를 찾아 협업
-
-### 개발한 게임
-- [그래도 그녀를 그리워한다 (iOS/Android)](https://applemintgames.com/i-still-miss-her)
-    - RenPy, Python
-    - 1만+ 유료앱 다운로드
-- [아슬아슬 친구관계 (Android)]((https://applemintgames.com/kiri-friend))
-    - RenPy, Python
-- [얀데레 아가씨 (iOS/Android)](https://applemintgames.com/yandere-girl)
-    - Unity, C#
-    - 30만+ 다운로드 (Android)
-- [츤데레 아가씨 (iOS/Android)](https://applemintgames.com/my-dere-girl)
-    - Unity, C#
-    - 10만+ 다운로드 (Android)
-- [메이드 아가씨 (iOS/Android)](https://applemintgames.com/메이드-아가씨)
-    - Unity, C#, Azure(for Asset downloads)
-    - 10만+ 다운로드 (Android)
-    - 특이사항 : 유명 성우가 더빙한 일본어판 릴리즈 예정 (3월 중)
-
 ## 취미 프로젝트
 - Simple VR Teleporter : 유니티 애셋스토어 패키지 (무료)
     - [판매 페이지](https://assetstore.unity.com/packages/tools/input-management/simple-vr-teleporter-115996)
@@ -98,9 +110,9 @@
 
 ## 개발
 - 다년간의 C# 유니티 게임 프로그래밍
-    - 유니티 스토리 텔링 도구 구현 (메이드 아가씨, 츤데레 아가씨에 사용)
-    - 기획자용 스크립트 도구 구현 (메이드 아가씨, 츤데레 아가씨에 사용)
-    - 유니티의 부가 기능(에디터 커스터마이즈, 애셋번들, 타임라인 에디터 등)에 익숙함
+    - 유니티 스토리 텔링 도구와 기획자용 스크립트 도구 구현 (메이드 아가씨, 츤데레 아가씨에 사용)
+    - 한국어, 일본어 로컬라이제이션 도구 구현 (메이드 아가씨에 사용)
+    - 유니티의 부가 기능(에디터 커스터마이즈, 애셋번들, 타임라인 에디터, 오디오 믹싱 등)에 익숙함
 
 - 멀티플레이어 게임 구현에 대한 이해
     - Photon 등의 솔루션을 사용한 멀티플레이어 게임 구현함
@@ -112,4 +124,3 @@
 - 튜토리얼 비디오 제작 : [유튜브 채널](https://yotube.com/c/JeminDev)
 - 10년 이상 단련된 비디오 편집 능력 (Final Cut, Premiere Pro, After Effect)
 - 영상 제작을 위해 단련된 디자인 도구 사용 능력 (주로 Sketch 사용)
-
