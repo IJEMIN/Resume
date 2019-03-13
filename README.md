@@ -26,7 +26,7 @@
 - [그래도 그녀를 그리워한다 (iOS/Android)](https://applemintgames.com/i-still-miss-her)
     - RenPy, Python
     - 1만+ 유료앱 다운로드
-- [아슬아슬 친구관계 (Android)]((https://applemintgames.com/kiri-friend))
+- [아슬아슬 친구관계 (Android)](https://applemintgames.com/kiri-friend)
     - RenPy, Python
 - [얀데레 아가씨 (iOS/Android)](https://applemintgames.com/yandere-girl)
     - Unity, C#
