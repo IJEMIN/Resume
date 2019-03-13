@@ -41,10 +41,11 @@
 책 집필을 위해 제작한 게임들
 
 - [유니런](https://retro-book.itch.io/uni-run) (Linux, Mac)
+    - Unity, C#
     - 무한 2D 러너 게임
 - 좀비 서바이버 (Linux, PC, Mac)
     - Unity, C#, Photon, 기타 디자인 프로그램
-    - 탑다운 형식의 서바이벌 슈터 게임
+    - 탑다운 형식의 서바이벌 슈터 게임, 매치 메이킹 지원
     - 싱글 플레이어 : https://retro-book.itch.io/zombie
     - 멀티 플레이어 : https://retro-book.itch.io/zombie-multiplayer
 
@@ -92,8 +93,8 @@
     - [깃허브 프로젝트](https://github.com/IJEMIN/Live2D-Wrapper-Sample-Unity-App)
 - 유니티 쉐이더 연습 저장소
     - [깃허브 프로젝트](https://github.com/IJEMIN/Unity-Shader-Practice-Lab)
-- Asia Haptics 2018(http://asiahaptics.org)에 소논문 통과
-    - "Gravity Ball: A Virtual Trackball with Ultrasonic Haptic Feedback"
+- [Asia Haptics 2018](http://asiahaptics.org)에 소논문 제출과 데모 시연
+    - "Gravity Ball: A Virtual Trackball with Ultrasonic Haptic Feedback"<br>([프로그램 북 61 페이지 참고](http://asiahaptics.org/wp-content/uploads/2018/11/AsiaHaptics2018_ProgramBook_Final.pdf))
     - 울트라 햅틱스를 통해 촉감을 느낄수 있는 가상의 AR 트랙볼 구현
     - [깃허브 데모](https://github.com/IJEMIN/gravityball-shooter)
 
