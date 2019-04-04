@@ -4,7 +4,6 @@
 - 유튜브 (게이밍 & 비디오 아트) : https://www.youtube.com/user/IJemin4714
 - 저자 정보 : [Yes24](http://www.yes24.com/24/AuthorFile/Author/248602)
 - 깃허브 : https://github.com/IJEMIN
-
 - 산업기능요원 (보충역 신규) 가능
 
 # 커리어
@@ -14,7 +13,6 @@
     - [책 티저 비디오](https://youtu.be/tBkF5il_zPU) | [책 정보(한빛미디어)](http://www.hanbit.co.kr/store/books/look.php?p_code=B3604463061)
     - [YES24](http://www.yes24.com/Product/Goods/69320872)
     - [프로젝트 저장소(깃허브)](https://github.com/IJEMIN/Unity-Programming-Essence)
-
 
 
 ## 독립 게임 개발
@@ -37,7 +35,7 @@
 - [메이드 아가씨 (iOS/Android)](https://applemintgames.com/메이드-아가씨)
     - Unity, C#, Azure(for Asset downloads)
     - 10만+ 다운로드 (Android)
-    - 유명 애니메이션 성우(쿠보 유리카) 참가 (3월 중 일본어판 릴리즈)
+    - 유명 애니메이션 성우(쿠보 유리카) 참가 (4월 중 일본어판 릴리즈)
 
 ### 개발한 게임 (교육용)
 책 집필을 위해 제작한 게임들
@@ -56,7 +54,7 @@
 ### 온라인 프로그래밍 튜토리얼 채널 **retr0** 운영
 - https://youtube.com/c/jeminDev
 - 무료 게임 프로그래밍 튜토리얼 연재
-- 6700명의 구독자 (마지막 확인 : 3월 12일, 2019년)
+- 7000명의 구독자 (마지막 확인 : 4월 3일, 2019년)
 
 ### 유료 튜토리얼 비디오
 - **retr0의 유니티 게임 프로그래밍 에센스** 제작 및 배포
@@ -84,6 +82,8 @@
 - Unity Certifed Programmer : [라이센스 조회(링크)](https://www.youracclaim.com/badges/9d4e4c2b-645d-4495-8053-a82046dfaede/public_url)
 
 ## 취미 프로젝트
+- 모에 라이브2D 월페이퍼 : 안드로이드 용 Live2D 배경앱
+    - [구글 플레이 페이지](https://play.google.com/store/apps/details?id=com.applemint.moewallpaper&hl=ko)
 - Simple VR Teleporter : 유니티 애셋스토어 패키지 (무료)
     - [판매 페이지](https://assetstore.unity.com/packages/tools/input-management/simple-vr-teleporter-115996)
     - [깃허브 프로젝트](https://github.com/IJEMIN/Simple-Unity-VR-Teleporter)
@@ -106,13 +106,13 @@
 - 단련된 프로젝트 완결 능력
     - 여러 게임, 비디오, 서적을 기획에서 개발과 출시까지 모든 부분을 진행하고 완결
     - 여러 독립 게임 개발을 통한 다양한 직군과의 협업 경험
-- 높은 수준으로 단련된 Unity C# 게임 프로그래밍
-- 컴퓨터 공학 필수 능력 : 협업도구 | 버전관리 | 벡터수학 | Unix 도구 | 자동화(Python)
+- 여러 프로젝트 완성을 통해 단련된 Unity C# 게임 프로그래밍
+- 컴퓨터 공학 필수 능력 : 협업도구 | 버전관리 | 벡터수학 | 자동화(Python)
 - 디자인 패턴 응용 능력과 기획자용 개발 도구 구현(유니티) 능력
-- 높은 수준으로 단련된 비디오 제작 능력
+- 높은 수준의 비디오 제작과 편집 능력
 
 ## 개발
-- 다년간의 C# 유니티 게임 프로그래밍
+- C# 유니티 게임 프로그래밍
     - 유니티 스토리 텔링 도구와 기획자용 스크립트 도구 구현 (메이드 아가씨, 츤데레 아가씨에 사용)
     - 한국어, 일본어 로컬라이제이션 도구 구현 (메이드 아가씨에 사용)
     - 유니티의 부가 기능(에디터 커스터마이즈, 애셋번들, 타임라인 에디터, 오디오 믹싱 등)에 익숙함
@@ -120,6 +120,9 @@
 - 멀티플레이어 게임 구현에 대한 이해
     - Photon 등의 솔루션을 사용한 멀티플레이어 게임 구현함
     - 멀티플레이어 게임 개발이 포함된 게임 개발 서적을 집필
+
+- 이외의 친숙한 개발 환경과 언어
+    - RenPy, Python (해당 언어와 엔진으로 게임을 출시함)
 
 ## 비디오 제작
 - 프로 게이밍(프랙무비) 비디오 제작 : [유튜브 채널](https://www.youtube.com/user/IJemin4714)
