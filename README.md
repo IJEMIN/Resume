@@ -101,6 +101,8 @@
 - 다년간의 온라인 | 오프라인 게임 프로그래밍 강의, 강연.
 - 가장 최근의 오프라인 강연 : [레트로의 게임 프로그래밍 에센스 저자 강연회](http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S4427455844)
 
+---
+
 ## 취미 프로젝트
 
 - [키리노 엔진 : 유니티용 비주얼 노벨 프레임워크](https://github.com/IJEMIN/Unity-Kirino-Engine)
