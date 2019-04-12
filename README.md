@@ -110,7 +110,7 @@
 - [Simple VR Teleporter : 유니티 애셋스토어 패키지 (무료)](https://assetstore.unity.com/packages/tools/input-management/simple-vr-teleporter-115996)
     - [깃허브 페이지](https://github.com/IJEMIN/Simple-Unity-VR-Teleporter)
 
-- [유니티 쉐이더 연습 저장소](https://github.com/IJEMIN/Unity-Shader-Practice-Lab)
+- [유니티 셰이더 연습 저장소](https://github.com/IJEMIN/Unity-Shader-Practice-Lab)
 
 - [유니티 Open VR 슈터 게임 템플릿](https://github.com/IJEMIN/Unity-OpenVR-Shooter-Template)
 
