@@ -9,7 +9,7 @@
 - +82 10-4822-2797
 
 ## 외부 링크
-- [게임 프로그래밍 채널 retr0](https://yotube.com/c/JeminDev)
+- [게임 프로그래밍 채널 retr0](https://youtube.com/c/JeminDev)
 - [게이밍 & 비디오 아트 채널](https://www.youtube.com/user/IJemin4714)
 - [Yes24의 저자 정보](http://www.yes24.com/24/AuthorFile/Author/248602)
 - [깃허브 페이지](https://github.com/IJEMIN) | [개인 블로그](https://ijemin.com)
@@ -32,8 +32,6 @@
 - [유니런](https://retro-book.itch.io/uni-run) : 무한 2D 러너 게임
 - [좀비 서바이버 - 싱글플레이어](https://retro-book.itch.io/zombie) : 탑다운 형식의 서바이벌 슈터 게임
 - [좀비 서바이버 - 멀티플레이어](https://retro-book.itch.io/zombie-multiplayer) : 매치 메이킹 지원의 코옵 게임
-
----
 
 ## 독립 게임 개발자 (애플민트)
 
@@ -66,14 +64,11 @@
 - 사용 도구 : RenPy, Python
 - 1만+ 유료앱 다운로드 (구글 플레이 + 원스토어)
 
-
 ### [아슬아슬 친구관계 (Android)](https://applemintgames.com/kiri-friend)
 
 - 프로듀스(디렉터), 클라이언트 개발, UI 디자인, 사업관련(세금, 계약 등) 담당
 - 사용 도구 : RenPy, Python
 - 원스토어의 이달의 인디 게임에 피쳐드
-
----
 
 ## 게임 프로그래밍 트레이너
 
@@ -97,8 +92,6 @@
 ### 오프라인 강연
 - 다년간의 온라인 | 오프라인 게임 프로그래밍 강의, 강연.
 - 가장 최근의 오프라인 강연 : [레트로의 게임 프로그래밍 에센스 저자 강연회](http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S4427455844)
-
----
 
 ## 취미 프로젝트
 
@@ -156,6 +149,6 @@
 ## 비디오 제작
 - 프로 게이밍(프랙무비) 비디오 제작 : [유튜브 채널](https://www.youtube.com/user/IJemin4714)
 - 스타트업 제품 홍보 비디오 제작 : [플러거 프로모](https://www.youtube.com/watch?v=w9dOZ4CdzNc)
-- 튜토리얼 비디오 제작 : [유튜브 채널](https://yotube.com/c/JeminDev)
+- 튜토리얼 비디오 제작 : [유튜브 채널](https://youtube.com/c/JeminDev)
 - 10년 이상 단련된 비디오 편집 능력 (Final Cut, Premiere Pro, After Effect)
 - 영상 제작을 위해 단련된 디자인 도구 사용 능력 (주로 Sketch 사용)
