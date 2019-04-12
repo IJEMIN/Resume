@@ -1,5 +1,5 @@
 # 이제민
-> 비디오 게임 개발과 개발자 커뮤니티에 기여하는 것에 열정을 가진,
+> 비디오 게임 개발과 개발자 커뮤니티에 기여하는 것에 열정을 가진
 > <br>게임 프로그래머, 베스트 셀러 작가.
 
 - 산업기능요원 (보충역 신규) 가능
@@ -19,7 +19,8 @@
 ## 베스트 셀러 작가
 
 ### **[레트로의 유니티 게임 프로그래밍 에센스](http://www.hanbit.co.kr/store/books/look.php?p_code=B3604463061)**
-출간 이후(2019.2.20) 현재까지 가장 많이 팔린 게임 프로그래밍 도서
+출간 이후(2019.2.20) 현재까지 가장 많이 팔린 게임 프로그래밍 도서.
+<br>유니티, C#, 선형대수, 디자인패턴, 네트워크 게임 개발 등을 다룸.
 
 - [YES24](http://www.yes24.com/Product/Goods/69320872)
 - [책 광고 비디오](https://youtu.be/tBkF5il_zPU)
@@ -27,14 +28,10 @@
 
 ### 책의 예제 프로젝트 데모
 
-- [닷지](https://retro-book.itch.io/dodge)
-    - 3D 탄막 피하기 게임
-- [유니런](https://retro-book.itch.io/uni-run)
-    - 무한 2D 러너 게임
-- [좀비 서바이버 - 싱글플레이어](https://retro-book.itch.io/zombie)
-    - 탑다운 형식의 서바이벌 슈터 게임
-- [좀비 서바이버 - 멀티플레이어](https://retro-book.itch.io/zombie-multiplayer)
-    - 매치 메이킹 지원의 탑다운 서바이벌 슈터 게임
+- [닷지](https://retro-book.itch.io/dodge) : 3D 탄막 피하기 게임
+- [유니런](https://retro-book.itch.io/uni-run) : 무한 2D 러너 게임
+- [좀비 서바이버 - 싱글플레이어](https://retro-book.itch.io/zombie) : 탑다운 형식의 서바이벌 슈터 게임
+- [좀비 서바이버 - 멀티플레이어](https://retro-book.itch.io/zombie-multiplayer) : 매치 메이킹 지원의 코옵 게임
 
 ---
 
@@ -53,7 +50,7 @@
 
 ### [츤데레 아가씨 (iOS/Android)](https://applemintgames.com/my-dere-girl)
 
-- 프로듀스(디렉터), 클라이언트 개발, 사업관련(세금, 계약 등) 담당
+- 프로듀스(디렉터), 클라이언트 개발, UI 디자인, 사업관련(세금, 계약 등) 담당
 - 사용 도구 : Unity, C#
 - 10만+ 다운로드 (Android)
 
@@ -65,14 +62,14 @@
 
 ### [그래도 그녀를 그리워한다 (iOS/Android)](https://applemintgames.com/i-still-miss-her)
 
-- 프로듀스(디렉터), 클라이언트 개발, 사업관련(세금, 계약 등) 담당
+- 프로듀스(디렉터), 클라이언트 개발, UI 디자인, 사업관련(세금, 계약 등) 담당
 - 사용 도구 : RenPy, Python
 - 1만+ 유료앱 다운로드 (구글 플레이 + 원스토어)
 
 
 ### [아슬아슬 친구관계 (Android)](https://applemintgames.com/kiri-friend)
 
-- 프로듀스(디렉터), 클라이언트 개발, 사업관련(세금, 계약 등) 담당
+- 프로듀스(디렉터), 클라이언트 개발, UI 디자인, 사업관련(세금, 계약 등) 담당
 - 사용 도구 : RenPy, Python
 - 원스토어의 이달의 인디 게임에 피쳐드
 
@@ -119,7 +116,7 @@
 - [Live2D 랩퍼 : 라이브2D 설명을 위한 튜토리얼 샘플](https://github.com/IJEMIN/Live2D-Wrapper-Sample-Unity-App)
 
 - [Asia Haptics 2018](http://asiahaptics.org)에 소논문 제출과 데모 시연 ([프로그램 북 61 페이지 참고](http://asiahaptics.org/wp-content/uploads/2018/11/AsiaHaptics2018_ProgramBook_Final.pdf))
-    - "Gravity Ball: A Virtual Trackball with Ultrasonic Haptic Feedback"<br>
+    - 제목 - Gravity Ball: A Virtual Trackball with Ultrasonic Haptic Feedback
     - 울트라 햅틱스를 통해 촉감을 느낄수 있는 가상의 AR 트랙볼 구현 | [깃허브 데모](https://github.com/IJEMIN/gravityball-shooter)
     - Springer Nature의 Haptic 2018에 해당 소논문이 포함되어 출간될 예정
 
