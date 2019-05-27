@@ -1,7 +1,8 @@
 # 이제민
-> 게임 프로그래머, 베스트 셀러 작가.
+> C# 게임 클라이언트 프로그래머, 베스트 셀러 작가.
 
-- 전문연구원(보충역 학사 자연(공학)계열 졸업자) 또는 산업기능요원 (보충역 신규) 가능
+- 전문연구원(보충역 자연(컴퓨터 공학)계열 학사 졸업) 가능
+- 산업기능요원(보충역 신규) 가능
 
 ## 연락처
 - i_jemin@icloud.com
@@ -12,6 +13,35 @@
 - [게이밍 & 비디오 아트 채널](https://www.youtube.com/user/IJemin4714)
 - [Yes24의 저자 정보](http://www.yes24.com/24/AuthorFile/Author/248602)
 - [깃허브 페이지](https://github.com/IJEMIN) | [개인 블로그](https://ijemin.com)
+
+# 능력
+
+## 요약
+- 여러 프로젝트 완성을 통해 단련된 C# 게임 프로그래밍
+- 기획자용 개발 도구(주로 유니티 에디터 커스터마이즈에 집중) 구현 능력
+- 단련된 프로젝트 완결 능력
+    - 여러 게임, 비디오, 서적을 기획에서 개발과 출시까지 모든 부분을 진행하고 완결
+    - 여러 독립 게임 개발을 통한 다양한 직군과의 협업
+- 컴퓨터 공학 필수 능력 : 협업도구 | 디자인패턴 | 버전관리 | 벡터수학 | 자동화(Python)
+- 다양한 도구에 즉시 적응
+    - C# 게임 프로그래밍 이외에도 즉흥적인 관심에 따라 웹 개발(django), 강화학습(ML-Agent), 증강현실(Unity + iOS, ARKit) 취미 프로젝트를 즉시 구현하고 결과물을 배포.
+
+## 개발
+- 주력 : 유니티 C# 게임 프로그래밍
+    - 유니티에서 스토리 텔링 도구와 기획자용 스크립트 도구 구현(메이드 아가씨, 츤데레 아가씨에 사용)
+    - 한국어, 일본어 로컬라이제이션 도구 구현(메이드 아가씨에 사용)
+    - 유니티의 부가 기능에 익숙함
+        - (에디터 커스터마이즈, 애셋번들, 타임라인 에디터, 오디오 믹싱 등)
+
+- 멀티플레이어 게임 구현에 대한 이해
+    - Photon 등의 솔루션을 사용한 멀티플레이어 게임 구현함
+    - 멀티플레이어 게임 개발이 포함된 게임 개발 서적을 집필
+
+- 이외의 친숙한 개발 환경과 언어
+    - 유니티 셰이더 프로그래밍
+    - RenPy : 해당 게임 엔진으로 게임을 제작 & 출시함
+    - Python : 자동화에 주로 사용, django 웹 개발
+    - Unity + AR Foundation + AR Kit(iOS) : 3D 캐릭터의 페이셜 모션 트래킹 구현에 사용
 
 # 베스트 셀러 작가
 
@@ -51,8 +81,8 @@
 
 ## [얀데레 아가씨 (iOS/Android)](https://applemintgames.com/yandere-girl)
 
-- 스토리를 제외한 모든 부분 담당 (일러스트는 애셋을 사용)
-- 사용 도구 : Unity, C#
+- 스토리와 일러스트를 제외한 모든 부분 담당
+- 사용 도구 : Unity, C# (처음에는 Python으로 제작했으나 이후에 C#으로 포팅)
 - 30만+ 다운로드 (Android)
 
 ## [그래도 그녀를 그리워한다 (iOS/Android)](https://applemintgames.com/i-still-miss-her)
@@ -74,10 +104,9 @@
 - 무료 게임 프로그래밍 튜토리얼 연재
 - 7600명의 구독자 (마지막 확인 : 5월 27일, 2019년)
 
-## 베스트셀러 유료 온라인 강의
-- **retr0의 유니티 게임 프로그래밍 에센스** 제작 및 배포
-    - 2000명 이상의 유료 비디오 구매자
-    - [Udemy 소개 페이지(링크)](https://www.udemy.com/retr0-unity) | [인프런 소개 페이지(링크)](https://www.inflearn.com/course/유니티-게임-프로그래밍-에센스)
+### **retr0의 유니티 게임 프로그래밍 에센스** : 베스트셀러 유료 온라인 강의 제작
+- 2000명 이상의 유료 비디오 구매자
+- [Udemy 소개 페이지(링크)](https://www.udemy.com/retr0-unity) | [인프런 소개 페이지(링크)](https://www.inflearn.com/course/유니티-게임-프로그래밍-에센스)
 
 ### 무료 튜토리얼 비디오
 - [**유니티 머신러닝 ML-Agents** 퀵스타트 비디오 시리즈](https://www.youtube.com/watch?v=twcmguIedhY&list=PLctzObGsrjfwYHL1obWlVdPRbpubkuKWp)
@@ -89,23 +118,25 @@
 
 # 취미 프로젝트
 
-- [KHU-족보 : 족보 공유 웹서비스](https://khu-jokbo.com)
+- [KHU-족보 : 족보 공유 웹서비스](https://khu-jokbo.com) : Python django
 
-- [키리노 엔진 : 유니티용 비주얼 노벨 프레임워크](https://github.com/IJEMIN/Unity-Kirino-Engine)
+- [키리노 엔진 : 유니티용 비주얼 노벨 프레임워크](https://github.com/IJEMIN/Unity-Kirino-Engine) : Unity C#
 
-- [모에 라이브2D 월페이퍼 : 안드로이드 용 Live2D 배경앱](https://play.google.com/store/apps/details?id=com.applemint.moewallpaper&hl=ko)
+- [ARKit 페이셜 모션 트래킹](https://www.facebook.com/ijemin/videos/785265398541024/) : Unity C# + iOS ARKit
 
-- [Simple VR Teleporter : 유니티 애셋스토어 패키지 (무료)](https://assetstore.unity.com/packages/tools/input-management/simple-vr-teleporter-115996)
+- [모에 라이브2D 월페이퍼 : 안드로이드 용 Live2D 배경앱](https://play.google.com/store/apps/details?id=com.applemint.moewallpaper&hl=ko) : Unity C#
+
+- [Simple VR Teleporter : 유니티 애셋스토어 패키지 (무료)](https://assetstore.unity.com/packages/tools/input-management/simple-vr-teleporter-115996) : Unity C#
     - [깃허브 페이지](https://github.com/IJEMIN/Simple-Unity-VR-Teleporter)
 
-- [유니티 셰이더 연습 저장소](https://github.com/IJEMIN/Unity-Shader-Practice-Lab)
+- [유니티 셰이더 연습 저장소](https://github.com/IJEMIN/Unity-Shader-Practice-Lab) : ShaderLab, HLSL
 
-- [유니티 Open VR 슈터 게임 템플릿](https://github.com/IJEMIN/Unity-OpenVR-Shooter-Template)
+- [유니티 Open VR 슈터 게임 템플릿](https://github.com/IJEMIN/Unity-OpenVR-Shooter-Template) : Unity C#
 
-- [Live2D 랩퍼 : 라이브2D 설명을 위한 튜토리얼 샘플](https://github.com/IJEMIN/Live2D-Wrapper-Sample-Unity-App)
+- [Live2D 랩퍼 : 라이브2D 설명을 위한 튜토리얼 샘플](https://github.com/IJEMIN/Live2D-Wrapper-Sample-Unity-App) : Unity C#, Live2D Cubism
 
 - [Asia Haptics 2018](http://asiahaptics.org)에 소논문 제출과 데모 시연 ([프로그램 북 61 페이지 참고](http://asiahaptics.org/wp-content/uploads/2018/11/AsiaHaptics2018_ProgramBook_Final.pdf))
-    - 제목 - Gravity Ball: A Virtual Trackball with Ultrasonic Haptic Feedback
+    - 제목 : Gravity Ball: A Virtual Trackball with Ultrasonic Haptic Feedback
     - 울트라 햅틱스를 통해 촉감을 느낄수 있는 가상의 AR 트랙볼 구현 | [깃허브 데모](https://github.com/IJEMIN/gravityball-shooter)
     - Springer Nature의 Haptic 2018에 해당 소논문이 포함되어 출간될 예정
 
@@ -113,36 +144,9 @@
 - 경희대학교 컴퓨터공학,공학사 졸업
 - Unity Certifed Programmer : [라이센스 조회(링크)](https://www.youracclaim.com/badges/9d4e4c2b-645d-4495-8053-a82046dfaede/public_url)
 
-# 능력
+# 기타 능력
+- 높은 수준의 비디오 제작과 편집 능력
 
-## 요약
-- 단련된 프로젝트 완결 능력
-    - 여러 게임, 비디오, 서적을 기획에서 개발과 출시까지 모든 부분을 진행하고 완결
-    - 여러 독립 게임 개발을 통한 다양한 직군과의 협업 경험
-- 여러 프로젝트 완성을 통해 단련된 Unity C# 게임 프로그래밍
-- 기획자용 개발 도구(유니티 에디터 커스터마이즈) 구현 능력
-- 컴퓨터 공학 필수 능력 : 협업도구 | 디자인패턴 | 버전관리 | 벡터수학 | 자동화(Python)
-- 다양한 도구의 빠른 적응력 : 주력인 C# 게임 프로그래밍 이외에도 즉흥적인 관심에 따라 웹 개발(django), 강화학습(ML-Agent), 증강현실(Unity + iOS, ARKit) 취미 프로젝트를 즉시 구현하고 결과물을 배포.
-- 기타 : 높은 수준의 비디오 제작과 편집 능력
-
-## 개발
-- 주력 : 유니티 C# 게임 프로그래밍
-    - 유니티에서 스토리 텔링 도구와 기획자용 스크립트 도구 구현
-        - 메이드 아가씨, 츤데레 아가씨에 사용
-    - 한국어, 일본어 로컬라이제이션 도구 구현
-        - 메이드 아가씨에 사용
-    - 유니티의 부가 기능에 익숙함
-        - (에디터 커스터마이즈, 애셋번들, 타임라인 에디터, 오디오 믹싱 등)
-
-- 멀티플레이어 게임 구현에 대한 이해
-    - Photon 등의 솔루션을 사용한 멀티플레이어 게임 구현함
-    - 멀티플레이어 게임 개발이 포함된 게임 개발 서적을 집필
-
-- 이외의 친숙한 개발 환경과 언어
-    - 유니티 셰이더 프로그래밍
-    - RenPy : 해당 게임 엔진으로 게임을 제작 & 출시함
-    - Python : 자동화에 주로 사용, django 웹 개발
-    
 ## 비디오 제작
 - 프로 게이밍(프랙무비) 비디오 제작 : [유튜브 채널](https://www.youtube.com/user/IJemin4714)
 - 스타트업 제품 홍보 비디오 제작 : [플러거 프로모](https://www.youtube.com/watch?v=w9dOZ4CdzNc)
