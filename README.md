@@ -1,6 +1,7 @@
 # 이제민
 > C# 게임 클라이언트 프로그래머, 베스트 셀러 작가.
 
+- 93년생
 - 전문연구원(보충역 자연(컴퓨터 공학)계열 학사 졸업) 가능
 - 산업기능요원(보충역 신규) 가능
 
@@ -10,9 +11,9 @@
 
 ## 외부 링크
 - [게임 프로그래밍 채널 retr0](https://youtube.com/c/JeminDev)
-- [게이밍 & 비디오 아트 채널](https://www.youtube.com/user/IJemin4714)
-- [Yes24의 저자 정보](http://www.yes24.com/24/AuthorFile/Author/248602)
 - [깃허브 페이지](https://github.com/IJEMIN) | [개인 블로그](https://ijemin.com)
+- [Yes24의 저자 정보](http://www.yes24.com/24/AuthorFile/Author/248602)
+- [게이밍 & 비디오 아트 채널](https://www.youtube.com/user/IJemin4714)
 
 # 능력
 
