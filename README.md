@@ -45,6 +45,7 @@ I work for a visual novel(story and dialogue) module and spine 2D animation feat
 - 3rd edition, which supports Unity 2023, will be released in 2023
 
 **External Links**
+
 - github project : https://github.com/IJEMIN/Unity-Programming-Essence
 - commercial video : https://youtu.be/tBkF5il_zPU
 
