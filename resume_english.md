@@ -1,6 +1,6 @@
 # Lee Jemin
 
-I created a bestselling Unity game programming book and an online video course in Korea. Most recently, I've worked on various client parts of a worldwide bestselling mobile game NIKKE, including a story module, animation system, hair physics, and localization.
+I created a bestselling Unity game programming book and an online video course in Korea. Most recently, I've worked on the bestselling mobile game NIKKE for client features, including dialogues, animations, hair physics, optimization, and localization.
 
 I got awarded as Unity Master, given by Unity Korea.
 
