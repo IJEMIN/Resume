@@ -53,10 +53,12 @@ I work for a visual novel(story and dialogue) module and spine 2D animation feat
 ## [retr0](https://youtube.com/c/jeminDev) : youtube programming education channel
 - 100+ videos, 1.4 million video views, 18000 subscribers
 - C#, ML-Agetns, VR, AR, Mutliplayer game development tutorials
+
 ## [retr0's Unity Game Programming Essense(online course)](https://www.udemy.com/retr0-unity)
-- Udemy : https://www.udemy.com/retr0-unity
-- 인프런 : https://www.inflearn.com/course/유니티-게임-프로그래밍-에센스
 - All time bestselling Unity video course in Korea
+- Video course store page
+    - [Udemy](https://www.udemy.com/retr0-unity)
+    - [인프런(inflearn)](https://www.inflearn.com/course/유니티-게임-프로그래밍-에센스)
 
 # Indie game development
 ## [Applemint (2015.01 ~ 2019.3)](https://applemintgames.com/)
