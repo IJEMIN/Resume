@@ -1,4 +1,4 @@
-# Lee Jemin
+# Jemin Lee
 
 I created a bestselling Unity game programming book and an online video course in Korea. Most recently, I've worked on mobile game NIKKE for client features, including dialogues, animations, hair physics, optimization, and localization.
 
@@ -66,28 +66,30 @@ Applemint is an indie game label I made for creating anime-style visual novel ga
 
 ### [메이드 아가씨(My Maid Girl)](https://applemintgames.com/메이드-아가씨) (07.08.2018)
 
-* Visual novel script engine for Unity.
+* Create Visual novel script engine for Unity.
 * Most Unity client parts
 * Localization
 
 ### [츤데레 아가씨(My Tsundere Girl)](https://applemintgames.com/my-dere-girl) (04.01.2017)
 
-* Director, Client Programmer, UI Design, Publishing
+* Director, Programmer, UI Design, Publishing
 * Visual novel script engine for Unity
 
 ### [얀데레 아가씨(My Yandere Girl)](https://applemintgames.com/yandere-girl) (11.29.2015)
 
-* Director, Scripting, UI Design, Publishing
-* Create a visual novel with RenPy, Python
-* (After release)Change project engine from RenPy to Unity
+* Director, Programmer, UI Design, Publishing
+* Scripting RenPy, Python
+* (After release) Rewrite and rebuild project with Unity and C#
 
 ### [그래도 그녀를 그리워한다(I still miss her)](https://applemintgames.com/i-still-miss-her) (09.03.2015)
 
-* Director, Scripting, Publishing
+* Director, Publishing, Scripting
+* Scripting with RenPy, Python
 * Manage crowdfunding
 * Produce game music album
 
 # Instructor
+
 ## Unity Learning Center in Korea (2016.10 ~ 2019.01)
 - Teaching Programming and game development as an instructor in the authorized Unity traning center.
 
