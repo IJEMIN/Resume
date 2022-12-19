@@ -15,7 +15,7 @@ I got awarded as Unity Master, given by Unity Korea.
 - Everything related to character animations and Spine2D.
 - Anime-style character hair and body physics
 - Optimize character physics with burst compiler, C# Job system
-- Shaders, Bakable Lightmap
+- Shaders, Bakable Lightmap component
 - Addressable corresponding API & Assetmangement workflow
 - Localization API & workflow
 - Profiling & Optimization for Shader, codes, and project settings.
