@@ -12,14 +12,15 @@ I got awarded as Unity Master, given by Unity Korea.
 ## [Shiftup](https://shiftup.co.kr)
 ### [Goddess of Victory : NIKKE(승리의 여신: 니케)](https://www.nikke-en.com) (2020.09 ~ NOW)
 - Visual novel module(story and dialogue system)
-- Everything related to Spine 2D animation.
+- Everything related to character animations and Spine2D.
 - Anime-style character hair and body physics
 - Optimize character physics with burst compiler, C# Job system
+- Shaders, Bakable Lightmap System
 - Addressable corresponding API & Assetmangement workflow
 - Localization API & workflow
 - Profiling & Optimization for Shader, codes, and project settings.
 - Optimization guide documents
-- Other visual features, including UI animations and timeline cutscenes.
+- Particles, Gameplay, UI animations, cutscenes
 
 In addition, one of my initial responsibilities was to normalize development.
 
