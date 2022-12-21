@@ -104,3 +104,4 @@ Applemint is an indie game label I made for creating anime-style visual novel ga
 # Other Links
 - github : https://github.com/IJEMIN
 - boxcollider(personal video course platform) : https://boxcollider.io
+- Unity Wave 2022 Session - Goddess of Victory : NIKKE - Spine Character Hair&Body Physics : https://youtu.be/-zyp6qNTms0
